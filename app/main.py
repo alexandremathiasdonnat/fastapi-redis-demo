@@ -2,7 +2,7 @@
 
 
 
-rom fastapi import FastAPI
+rom fastapi export FastAPI
 import os, redis
 
 app = FastAPI()
